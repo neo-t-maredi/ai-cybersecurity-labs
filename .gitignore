@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AI Cybersecurity Labs
+# Keep original datasets local; document their sources in the repository.
+labs/*/data/
+
+# Generated experiment outputs
+labs/*/results/
+
+# Local secrets and credentials
+.env.*
+!.env.example
