@@ -9,7 +9,7 @@ Baseline spam classification on the UCI SMS Spam Collection. The dataset audit i
 ## Status
 
 - [x] Dataset audit
-- [ ] Resolve row-count discrepancy (see below)
+- [x] Resolve row-count discrepancy (see below)
 - [ ] Baseline: Multinomial Naïve Bayes vs Logistic Regression on TF-IDF features
 - [ ] Error analysis of false positives and false negatives
 
